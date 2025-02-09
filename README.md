@@ -40,11 +40,43 @@ After the ETL process:
 
 ### Live demo
 
- [Notebook](https://deepnote.com/app/projects-975f/Projects-9f46395a-c0d8-45cb-b6d3-50191b329853?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=9f46395a-c0d8-45cb-b6d3-50191b329853)
-
+ [Part I](https://deepnote.com/workspace/projects-975f-efed272e-9ae6-4c78-9f2e-e4a5eb60a3ea/project/Projects-9f46395a-c0d8-45cb-b6d3-50191b329853/notebook/Survey-US-1970-campus-unrest-I-intro-f6737292381a4acbbdb13fb6ef8a6164?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=9f46395a-c0d8-45cb-b6d3-50191b329853) |  [Part II](https://deepnote.com/app/projects-975f/Projects-9f46395a-c0d8-45cb-b6d3-50191b329853?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=data-app&utm_content=9f46395a-c0d8-45cb-b6d3-50191b329853)
+ 
 ---  
 
+## Prediction model for fatalities in school shootings based on US state
+
+
+ <div align="center">
+  
+<!-- PROJECT SHIELDS -->
+[![colabBadge][colab-shield]][colab-url]
+[![pythonBadge][python-shield]][python-url]
+[![pandasBadge][pandas-shield]][pandas-url]
+[![sklearnBadge][sklearn-shield]][sklearn-url]
+[![matplotlibBadge][matplotlib-shield]][matplotlib-url]
+<!-- PROJECT SHIELDS -->
+  
+ </div>
+ 
+Exploratory paper for the class 'Data analysis II'. The objective of this work is to apply a random model to a dataset and evaluate its performance. In this case, the Random Forest algorithm, a supervised learning method based on decision trees, was randomly chosen to predict the presence of fatalities based on the state where the incident occurred.
+
+### Data Source
+
+This [dataset](https://drive.google.com/file/d/1VA8g3qU2EX8QzH74a_l_abqRqGklraWz/view?usp=sharing) contains information on mass shootings in the USA collected by the [Gun Violence Archive](https://www.gunviolencearchive.org/reports) from 2014 to 2023. 
+
+### Project details
+
+- __Preparation__: use of one hot encoding to convert categorical data into a numerical format.
+- __Data splitting__: Split the data into training and testing dataset.
+- __Model selection and training__: Apply the random forest model.
+- __Model evaluation__ Evaluate the model using metrics such as accuracy, precision, recall, F1 score, confusion matrix, and AUC-ROC.
+- __Hyperparameter tuning__:  Optimize the model's performance through hyperparameter tuning.
+- __Model re-evaluation__: Re-evaluate the model after tuning.
+
 <!-- PROJECT SHIELDS VARIABLES-->
+[colab-shield]:https://img.shields.io/badge/Live-Collab-black?style=flat&labelColor=%23808080k&color=red&logo=collab&logoColor=white
+[colab-url]: https://colab.google/
 [deepnote-shield]:https://img.shields.io/badge/Live-Deepnote-black?style=flat&labelColor=%23808080k&color=red&logo=deepnote&logoColor=white
 [deepnote-url]: https://deepnote.com/
 [matplotlib-shield]:https://img.shields.io/badge/Data_Viz-matplotlib-black?style=flat&labelColor=%23808080k&color=teal
@@ -57,3 +89,5 @@ After the ETL process:
 [plotly-url]: https://plotly.com/python/
 [seaborn-shield]:https://img.shields.io/badge/Data_Viz-Seaborn-black?style=flat&labelColor=%23808080k&color=teal
 [seaborn-url]: https://seaborn.pydata.org/
+[sklearn-shield]:https://img.shields.io/badge/ML-sklearn-black?style=flat&labelColor=%23808080k&color=teal
+[sklearn-url]: https://scikit-learn.org/
