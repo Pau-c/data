@@ -19,7 +19,7 @@
   
  </div>
  
-The goal of this project is to update the survey commissioned by the US government during the Vietnam war to investigate university students' attitudes toward campus protests that took place during that time. The commission's objective was to analyze the causes of unrest, identify patterns, and make recommendations for preventing or addressing similar situations in the future.  
+The goal of this project is to update the survey commissioned by the US government during the Vietnam war to look into university students' attitudes toward campus protests that took place during that time. The commission's objective was to analyze the causes of unrest, identify patterns, and make recommendations for preventing or addressing similar situations in the future.  
 
 ### Data Source
 You can find the files [here](https://catalog.archives.gov/id/610064) . The most important ones are the raw file RG220.PCC.CAMPUS with the survey results and the one containing the technical documentation that specifies which position corresponds to each column and how to interpret the answers, which are originally presented as numerical values.
@@ -74,20 +74,28 @@ This [dataset](https://drive.google.com/file/d/1VA8g3qU2EX8QzH74a_l_abqRqGklraWz
 - __Hyperparameter tuning__:  Optimize the model's performance through hyperparameter tuning.
 - __Model re-evaluation__: Re-evaluate the model after tuning.
 
+
+### Live demo
+
+ [Colab Notebook](https://colab.research.google.com/drive/19Xrg2eJlaqHi7XWPtUh_wpdTHBU-itj_?usp=sharing) 
+ 
+---  
+
+
 <!-- PROJECT SHIELDS VARIABLES-->
-[colab-shield]:https://img.shields.io/badge/Live-Collab-black?style=flat&labelColor=%23808080k&color=red&logo=collab&logoColor=white
+[colab-shield]:https://img.shields.io/badge/Live-Collab-black?style=flat&labelColor=%23808080k&color=de6d40&logo=googlecolab&logoColor=white
 [colab-url]: https://colab.google/
-[deepnote-shield]:https://img.shields.io/badge/Live-Deepnote-black?style=flat&labelColor=%23808080k&color=red&logo=deepnote&logoColor=white
+[deepnote-shield]:https://img.shields.io/badge/Live-Deepnote-black?style=flat&labelColor=%23808080k&color=de6d40&logo=deepnote&logoColor=white
 [deepnote-url]: https://deepnote.com/
-[matplotlib-shield]:https://img.shields.io/badge/Data_Viz-matplotlib-black?style=flat&labelColor=%23808080k&color=teal
+[matplotlib-shield]:https://img.shields.io/badge/Data_Viz-matplotlib-black?style=flat&labelColor=%23808080k&color=fec260
 [matplotlib-url]:https://matplotlib.org/
-[pandas-shield]:https://img.shields.io/badge/Data_analysis-Pandas-black?style=flat&labelColor=%23808080k&color=violet&logo=pandas
+[pandas-shield]:https://img.shields.io/badge/Data_analysis-Pandas-black?style=flat&labelColor=%23808080k&color=453076&logo=pandas
 [pandas-url]:https://pandas.pydata.org/
-[python-shield]:https://img.shields.io/badge/Language-Python-black?style=flat&labelColor=%23808080k&color=black&logo=python&logoColor=white
+[python-shield]:https://img.shields.io/badge/Language-Python-black?style=flat&labelColor=%23808080k&color=2a0944&logo=python&logoColor=white
 [python-url]: https://www.python.org/
-[plotly-shield]:https://img.shields.io/badge/Data_Viz-Plotly-black?style=flat&labelColor=%23808080k&color=teal&logo=plotly
+[plotly-shield]:https://img.shields.io/badge/Data_Viz-Plotly-black?style=flat&labelColor=%23808080k&color=9ABF80&logo=plotly&logoColor=white
 [plotly-url]: https://plotly.com/python/
-[seaborn-shield]:https://img.shields.io/badge/Data_Viz-Seaborn-black?style=flat&labelColor=%23808080k&color=teal
+[seaborn-shield]:https://img.shields.io/badge/Data_Viz-Seaborn-black?style=flat&labelColor=%23808080k&color=a12568
 [seaborn-url]: https://seaborn.pydata.org/
-[sklearn-shield]:https://img.shields.io/badge/ML-sklearn-black?style=flat&labelColor=%23808080k&color=teal
+[sklearn-shield]:https://img.shields.io/badge/ML-sklearn-black?style=flat&labelColor=%23808080k&color=teal&logo=scikitlearn&logoColor=white
 [sklearn-url]: https://scikit-learn.org/
