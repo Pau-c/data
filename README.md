@@ -87,6 +87,8 @@ This [dataset](https://drive.google.com/file/d/1VA8g3qU2EX8QzH74a_l_abqRqGklraWz
 [colab-url]: https://colab.google/
 [deepnote-shield]:https://img.shields.io/badge/Live-Deepnote-black?style=flat&labelColor=%23808080k&color=de6d40&logo=deepnote&logoColor=white
 [deepnote-url]: https://deepnote.com/
+[jupyter-shield]:https://img.shields.io/badge/Notebook-jupyter-black?style=flat&labelColor=%23808080k&color=fec260&logo=Jupyter&logoColor=white
+[jupyter-url]: https://jupyter.org/
 [matplotlib-shield]:https://img.shields.io/badge/Data_Viz-matplotlib-black?style=flat&labelColor=%23808080k&color=fec260
 [matplotlib-url]:https://matplotlib.org/
 [pandas-shield]:https://img.shields.io/badge/Data_analysis-Pandas-black?style=flat&labelColor=%23808080k&color=453076&logo=pandas
@@ -99,3 +101,9 @@ This [dataset](https://drive.google.com/file/d/1VA8g3qU2EX8QzH74a_l_abqRqGklraWz
 [seaborn-url]: https://seaborn.pydata.org/
 [sklearn-shield]:https://img.shields.io/badge/ML-sklearn-black?style=flat&labelColor=%23808080k&color=teal&logo=scikitlearn&logoColor=white
 [sklearn-url]: https://scikit-learn.org/
+[supabase-shield]:https://img.shields.io/badge/DB-supabase-black?style=flat&labelColor=%23808080k&color=166866&logo=supabase&logoColor=white
+[supabase-url]: https://supabase.com/
+[uv-shield]:https://img.shields.io/badge/Dependencias-UV-black?style=flat&labelColor=%23808080k&color=2a0944&logo=uv&logoColor=white
+[uv-url]: https://github.com/astral-sh/uv
+
+
