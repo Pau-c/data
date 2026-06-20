@@ -81,6 +81,16 @@ This [dataset](https://drive.google.com/file/d/1VA8g3qU2EX8QzH74a_l_abqRqGklraWz
  
 ---  
 
+# Otros proyectos
+
+## TP de Análisis de obras realizadas en CABA
+El objetivo de este [trabajo](https://drive.google.com/file/d/1Kvy0lT0NFjqJeR4rHmdOeFdRcc1JEIgW/view?usp=drive_link) es presentar la metodología que dio origen a un [reporte](https://drive.google.com/file/d/1tCPM39gMsBz_GH49l91fzov9M2kgWwn-/view?usp=sharing) de Power BI destinado a explorar cómo se desarrollaron las obras públicas en CABA, tanto en términos generales como en los barrios populares, particularmente en los últimos diez años.  
+
+---
+
+## TP Predictor de precios de propiedades en CABA
+Utilizando 2 modelos predictivos, a partir de un dataset de Kaggle el sistema predice el valor de una propiedad teniendo en cuenta ciertos parametros. Ver detalles en [Repo](https://github.com/Pau-c/calculAR-propiedad)
+
 
 <!-- PROJECT SHIELDS VARIABLES-->
 [colab-shield]:https://img.shields.io/badge/Live-Collab-black?style=flat&labelColor=%23808080k&color=de6d40&logo=googlecolab&logoColor=white
